@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: sheri facey
+# DATE: 10/1/25
+# BRIEF DESCRIPTION:  compliement
 
 
 
@@ -17,6 +17,22 @@
 
 
 
+def main():
+    ask_user()
+
+
+def ask_user():
+    ask_user = input('Would you like a compliment? ')
+
+    if ask_user == 'yes':
+        print('You have wonderful eyes.')
+        print('Thank you for playing.')
+
+    else:
+        print('Thank you for playing.')
+
+
+main()
 
 
 
@@ -67,10 +83,17 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
+this was a 4 not very difficult at all 
 
 
 
 2. What was the hardest part of this lab?
+
+
+the hardest part was the spacing and indentation
+
+
+
 
 
 
